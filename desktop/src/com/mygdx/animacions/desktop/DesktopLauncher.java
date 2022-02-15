@@ -4,6 +4,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 
 import com.mygdx.animacions.Animator;
+import com.mygdx.animacions.SpriteClass;
 
 
 public class DesktopLauncher {

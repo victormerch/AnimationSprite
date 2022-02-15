@@ -17,7 +17,7 @@ public class Animator extends Game {
         batch = new SpriteBatch();
 
         font = new BitmapFont();
-        this.setScreen(new mainGame(this));
+        this.setScreen(new menuGame(this));
 
     }
 
